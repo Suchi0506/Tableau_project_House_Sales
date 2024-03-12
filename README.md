@@ -9,3 +9,5 @@ INSIGHTS:
 1. Average price of house shot up to $ 13lakhs in May2015. Also the distribution of prices were mainly between 300k- 350k.
 2. Bellevue in Washington States has the highest average pricing of the area going upto around $ 1,149,500 while Enumclaw has the lowest average pricing in Unites States of around $ 75,000
 3. The frequency of buying a 3BHK house is pretty common in United States.
+
+![Tableau image](https://github.com/Suchi0506/Tableau_project_House_Sales/assets/140787972/0d958709-4f87-4846-9522-e275b8ae8687)
